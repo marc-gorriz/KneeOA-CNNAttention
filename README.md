@@ -6,7 +6,7 @@
 
 [MarcGorriz-web]: https://www.linkedin.com/in/marc-górriz-blanch-74501a123/
 [XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
-[JosephAntony-web]: https://www.dcu.ie/insight/people/Joseph-Antony.shtml
+[JosephAntony-web]: https://imatge.upc.edu/web/people/xavier-giro
 [KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
 [NoelOConnor-web]: https://www.insight-centre.org/users/noel-oconnor
 
