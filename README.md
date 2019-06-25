@@ -1,6 +1,6 @@
 # Assessing Knee OA Severity with CNN attention-based end-to-end architectures
 
-| ![Marc Górriz][MarcGorriz-photo]  |  ![Joseph Antony][JosephAntony-photo] | ![Kevin McGuinness][KevinMcGuinness-photo]  | ![Xavier Giro-i-Nieto][XavierGiro-photo]  | ![Noel E. O'Connor][NoelOConnor-photo]  |
+| ![Marc Górriz][MarcGorriz-photo]  |  ![Joseph Antony][KevinMcGuinness-photo] | ![Kevin McGuinness][KevinMcGuinness-photo]  | ![Xavier Giro-i-Nieto][XavierGiro-photo]  | ![Noel E. O'Connor][NoelOConnor-photo]  |
 |:-:|:-:|:-:|:-:|:-:|
 | [Marc Górriz][MarcGorriz-web]  | [Joseph Antony][JosephAntony-web] | [Kevin McGuinness][KevinMcGuinness-web] | [Xavier Giro-i-Nieto][XavierGiro-web] | [Noel E. O'Connor][NoelOConnor-web] |
 
