@@ -26,4 +26,4 @@ lr = 0.00005
 beta = 0.9
 plateau_factor = 0.1
 plateau_patience = 2
-plateau_min_lr = 0
+plateau_min_lr = 1
