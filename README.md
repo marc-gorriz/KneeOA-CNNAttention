@@ -45,6 +45,21 @@ This work proposes a novel end-to-end convolutional neural network (CNN) archite
 
 ---
 
+## How to use
+
+### Dependencies
+
+The model is implemented in [Keras](https://github.com/fchollet/keras/tree/master/keras), which at its time is developed over [TensorFlow](https://www.tensorflow.org). Also, this code should be compatible with Python 3.4.2.
+
+```
+pip install -r https://github.com/marc-gorriz/KneeOA-CNNAttention/blob/master/requeriments.txt
+```
+
+### Launch an experiment
+* Make a new configuration file based on the available templates and save it into the ```config``` directory.
+Make sure to launch all the processes over GPU. On this project there was used an NVIDIA GTX Titan X.
+
+* To train a new model, run  ```python train.py --config_path config/[config file].py```.
 
 ## Acknowledgements
 
