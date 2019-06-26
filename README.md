@@ -43,7 +43,23 @@ This work proposes a novel end-to-end convolutional neural network (CNN) archite
 
 [system-fig]: https://raw.githubusercontent.com/marc-gorriz/KneeOA-CNNAttention/master/figs/system_diagram.png
 
----
+## Publication
+
+International Conference on Medical Imaging with Deep Learning (MIDL) 2019, London, United Kingdom. Find the pre-print version of our work on [mlr.press](http://proceedings.mlr.press/v102/gorriz19a/gorriz19a.pdf). 
+
+![Image of the paper](https://raw.githubusercontent.com/marc-gorriz/KneeOA-CNNAttention/master/figs/MIDL-2019-publication.png)
+
+Please cite with the following Bibtex code:
+
+```
+@inproceedings{gorriz2019assessing,
+  title={Assessing Knee OA Severity with CNN attention-based end-to-end architectures},
+  author={G{\'o}rriz, Marc and Antony, Joseph and McGuinness, Kevin and Gir{\'o}-i-Nieto, Xavier and O’Connor, Noel E},
+  booktitle={International Conference on Medical Imaging with Deep Learning},
+  pages={197--214},
+  year={2019}
+}
+```
 
 ## How to use
 
