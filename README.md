@@ -20,7 +20,7 @@ A joint collaboration between:
 
 | ![logo-insight] | ![logo-dcu] | ![logo-gpi] |
 |:-:|:-:|:-:|
-| [IRIT Vortex Group][insight-web] | [INP Toulouse - ENSEEIHT][dcu-web] | [UPC Image Processing Group][gpi-web] |
+| [Insight Centre for Data Analytics][insight-web] | [Dublin City University (DCU)][dcu-web] | [UPC Image Processing Group][gpi-web] |
 
 [insight-web]: https://www.insight-centre.org/ 
 [dcu-web]: http://www.dcu.ie/
