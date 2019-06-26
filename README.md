@@ -35,6 +35,17 @@ A joint collaboration between:
 [logo-etsetb]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/logos/etsetb.png "ETSETB TelecomBCN"
 [logo-gpi]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/logos/gpi.png "UPC Image Processing Group"
 
+## Abstract
+
+This work proposes a novel end-to-end convolutional neural network (CNN) architecture to automatically quantify the severity of knee osteoarthritis (OA) using X-Ray images, which incorporates trainable attention modules acting as unsupervised fine-grained detectors of the region of interest (ROI). The proposed attention modules can be applied at different levels and scales across any CNN pipeline helping the network to learn relevant attention patterns over the most informative parts of the image at different resolutions. We test the proposed attention mechanism on existing state-of-the-art CNN architectures as our base models, achieving promising results on the benchmark knee OA datasets from the osteoarthritis initiative (OAI) and multicenter osteoarthritis study (MOST).
+
+![system-fig]
+
+[system-fig]: https://raw.githubusercontent.com/marc-gorriz/Leishmaniosi-upc/master/img/system_diagram.png
+
+---
+
+
 ## Acknowledgements
 
 We would like to especially thank Albert Gil Moreno from our technical support team at the Image Processing Group at the UPC.
