@@ -41,7 +41,7 @@ This work proposes a novel end-to-end convolutional neural network (CNN) archite
 
 ![system-fig]
 
-[system-fig]: https://raw.githubusercontent.com/marc-gorriz/Leishmaniosi-upc/master/img/system_diagram.png
+[system-fig]: https://raw.githubusercontent.com/marc-gorriz/KneeOA-CNNAttention/master/figs/system_diagram.png
 
 ---
 
