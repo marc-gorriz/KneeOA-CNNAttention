@@ -59,7 +59,7 @@ pip install -r https://github.com/marc-gorriz/KneeOA-CNNAttention/blob/master/re
 * Make a new configuration file based on the available templates and save it into the ```config``` directory.
 Make sure to launch all the processes over GPU. On this project there was used an NVIDIA GTX Titan X.
 
-* To train a new model, run  ```python train.py --config_path config/[config file].py```.
+* To train a new model, run  ```python train.py --config config/[config file].py```.
 
 ## Acknowledgements
 
